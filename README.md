@@ -21,7 +21,7 @@ Is project ko chalane ke liye aapko **API Key** ki zarurat padegi.
 
 Apne local machine par repository clone karne ke liye:
 
-git clone https://github.com/your-username/shayari-hub.git
+git clone [https://github.com/mistershubhamkumar/My-project-.git]
 
 ### Step 2: Install dependencies
 
